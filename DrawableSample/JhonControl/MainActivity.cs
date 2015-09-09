@@ -56,7 +56,7 @@ namespace JhonControl
 				ShapeDrawable mDrawable = new ShapeDrawable(new OvalShape());
 				mDrawable.Paint.SetShader(new LinearGradient(0, 0, 0, h, Color.ParseColor("#330000FF"), Color.ParseColor ("#110000FF"), Shader.TileMode.Repeat));
 				bottomRight.SetBackgroundDrawable (mDrawable);
-				Toast.MakeText (this,"you have clicked on "+Resource.Id.floating_shape1,ToastLength.Long);
+				Toast.MakeText (this,"you have clicked on "+Resource.Id.floating_shape1,ToastLength.Long).Show();
 			};
 
 		}
