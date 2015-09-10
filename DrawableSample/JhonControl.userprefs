@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="JhonControl/JhonControl.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus5L" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="JhonControl/MainActivity.cs">
+﻿<Properties StartupItem="JhonControl\JhonControl.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.API17" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JhonControl\MainActivity.cs">
     <Files>
-      <File FileName="JhonControl/MainActivity.cs" Line="20" Column="4" />
+      <File FileName="JhonControl\MainActivity.cs" Line="34" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

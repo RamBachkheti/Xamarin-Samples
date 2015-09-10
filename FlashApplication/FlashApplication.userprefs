@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="FlashApplication\FlashApplication.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.API17" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlashApplication\Resources\values\Strings.xml">
+    <Files>
+      <File FileName="FlashApplication\Resources\values\Strings.xml" Line="3" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FlashApplication AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
