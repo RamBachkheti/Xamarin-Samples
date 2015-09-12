@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="FlashApplication\FlashApplication.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.API17" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FlashApplication\Resources\values\Strings.xml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlashApplication\MainActivity.cs">
     <Files>
-      <File FileName="FlashApplication\Resources\values\Strings.xml" Line="3" Column="33" />
+      <File FileName="FlashApplication\MainActivity.cs" Line="37" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

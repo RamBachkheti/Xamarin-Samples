@@ -17,7 +17,7 @@ namespace FlashApplication
 	[Activity (MainLauncher = true, Icon = "@drawable/iTorch")]
 	public class MainActivity : Activity
 	{
-		View btnLight;
+		ImageButton btnLight;
 		private Android.Hardware.Camera camera;
 		private bool isFlashOn;
 		private bool hasFlash;
@@ -32,7 +32,8 @@ namespace FlashApplication
 
 			// Get our button from the layout resource,
 			// and attach an event to it
-			btnLight = FindViewById(Resource.Id.floating_shape);
+			btnLight = FindViewById<ImageButton>(Resource.Id.imageButton);
+			btnLight.SetImageResource(Resource.Drawable.iTorchOff);
 
 			Android.Content.PM.PackageManager pm = PackageManager;
 
@@ -59,17 +60,19 @@ namespace FlashApplication
 					// turn off flash
 					TurnOffFlash();
 					int h = btnLight.Height;
-					ShapeDrawable mDrawable = new ShapeDrawable(new OvalShape());
-					mDrawable.Paint.SetShader(new LinearGradient(0, 0, 0, h, Color.Red, Color.Red, Shader.TileMode.Repeat));
-					btnLight.SetBackgroundDrawable (mDrawable);
+					btnLight.SetImageResource(Resource.Drawable.iTorchOff);
+					//ShapeDrawable mDrawable = new ShapeDrawable(new OvalShape());
+					///mDrawable.Paint.SetShader(new LinearGradient(0, 0, 0, h, Color.Red, Color.Red, Shader.TileMode.Repeat));
+					//btnLight.SetBackgroundDrawable (mDrawable);
 					//btnLight.Text="Tap to off the flash";
 				} else {
 					// turn on flash
 					TurnOnFlash();
+					btnLight.SetImageResource(Resource.Drawable.iTourchOn);
 					int h = btnLight.Height;
 					ShapeDrawable mDrawable = new ShapeDrawable(new OvalShape());
 					mDrawable.Paint.SetShader(new LinearGradient(0, 0, 0, h, Color.Green, Color.Red, Shader.TileMode.Repeat));
-					btnLight.SetBackgroundDrawable (mDrawable);
+					//btnLight.SetBackgroundDrawable (mDrawable);
 					//btnLight.Text="Tap to on the flash";
 				}
 				//btnLight.Text = string.Format ("{0} clicks!", count++);
