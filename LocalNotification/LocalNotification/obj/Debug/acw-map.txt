@@ -1,0 +1,4 @@
+LocalNotification.MainActivity, LocalNotification;md5b8a51a0d05943d5252bf865461d38cb9.MainActivity
+LocalNotification.MainActivity, LocalNotification, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8a51a0d05943d5252bf865461d38cb9.MainActivity
+LocalNotification.MainActivity;md5b8a51a0d05943d5252bf865461d38cb9.MainActivity
+localnotification.MainActivity;md5b8a51a0d05943d5252bf865461d38cb9.MainActivity

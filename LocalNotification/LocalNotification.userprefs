@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="LocalNotification\LocalNotification.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.API16" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LocalNotification\MainActivity.cs">
+    <Files>
+      <File FileName="LocalNotification\MainActivity.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalNotification", "LocalNotification\LocalNotification.csproj", "{076C8A85-C5B6-4B72-917F-04E2FC9EC5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalNotification.UITests", "LocalNotification.UITests\LocalNotification.UITests.csproj", "{9F46E836-B36B-4058-96BB-6907E7876830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076C8A85-C5B6-4B72-917F-04E2FC9EC5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076C8A85-C5B6-4B72-917F-04E2FC9EC5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076C8A85-C5B6-4B72-917F-04E2FC9EC5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076C8A85-C5B6-4B72-917F-04E2FC9EC5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F46E836-B36B-4058-96BB-6907E7876830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F46E836-B36B-4058-96BB-6907E7876830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F46E836-B36B-4058-96BB-6907E7876830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F46E836-B36B-4058-96BB-6907E7876830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

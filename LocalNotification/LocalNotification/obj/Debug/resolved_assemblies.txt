@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Projects\LocalNotification\LocalNotification\obj\Debug\assemblies\LocalNotification.dll
+C:\Users\Admin\Documents\Projects\LocalNotification\LocalNotification\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Admin\Documents\Projects\LocalNotification\LocalNotification\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Admin\Documents\Projects\LocalNotification\LocalNotification\obj\Debug\assemblies\System.Core.dll
+C:\Users\Admin\Documents\Projects\LocalNotification\LocalNotification\obj\Debug\assemblies\System.dll
+C:\Users\Admin\Documents\Projects\LocalNotification\LocalNotification\obj\Debug\assemblies\System.Xml.dll
