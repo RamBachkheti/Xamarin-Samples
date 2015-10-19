@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">ITect Sample App</string>
+	<string name="certificates_tab_label">Certificates</string>
+	<string name="sessions_tab_label">Sessions</string>
+	<string name="deals_tab_label">Deals</string>
+	<string name="account_tab_label">Account</string>
+	<string name="giftCard_tab_label">Gift Card</string>
+	<string name="card_tab_label">Card</string>
+	<string name="signOut">Sign Out</string>
+</resources>

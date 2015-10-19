@@ -1,0 +1,28 @@
+com.xamarin.example.actionbar.tabs.MainActivity, ActionBarTabs;md54b3e4c32e4849ac52a17482e2bb24eeb.MainActivity
+com.xamarin.example.actionbar.tabs.MainActivity, ActionBarTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b3e4c32e4849ac52a17482e2bb24eeb.MainActivity
+com.xamarin.example.actionbar.tabs.MainActivity;md54b3e4c32e4849ac52a17482e2bb24eeb.MainActivity
+com.xamarin.example.actionbar.tabs.MainActivity;md54b3e4c32e4849ac52a17482e2bb24eeb.MainActivity
+com.xamarin.example.actionbar.tabs.DealFragment, ActionBarTabs;md54b3e4c32e4849ac52a17482e2bb24eeb.DealFragment
+com.xamarin.example.actionbar.tabs.DealFragment, ActionBarTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b3e4c32e4849ac52a17482e2bb24eeb.DealFragment
+com.xamarin.example.actionbar.tabs.DealFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.DealFragment
+com.xamarin.example.actionbar.tabs.DealFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.DealFragment
+com.xamarin.example.actionbar.tabs.CertificatesFragment, ActionBarTabs;md54b3e4c32e4849ac52a17482e2bb24eeb.CertificatesFragment
+com.xamarin.example.actionbar.tabs.CertificatesFragment, ActionBarTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b3e4c32e4849ac52a17482e2bb24eeb.CertificatesFragment
+com.xamarin.example.actionbar.tabs.CertificatesFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.CertificatesFragment
+com.xamarin.example.actionbar.tabs.CertificatesFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.CertificatesFragment
+com.xamarin.example.actionbar.tabs.GiftCardFragment, ActionBarTabs;md54b3e4c32e4849ac52a17482e2bb24eeb.GiftCardFragment
+com.xamarin.example.actionbar.tabs.GiftCardFragment, ActionBarTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b3e4c32e4849ac52a17482e2bb24eeb.GiftCardFragment
+com.xamarin.example.actionbar.tabs.GiftCardFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.GiftCardFragment
+com.xamarin.example.actionbar.tabs.GiftCardFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.GiftCardFragment
+com.xamarin.example.actionbar.tabs.CartFragment, ActionBarTabs;md54b3e4c32e4849ac52a17482e2bb24eeb.CartFragment
+com.xamarin.example.actionbar.tabs.CartFragment, ActionBarTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b3e4c32e4849ac52a17482e2bb24eeb.CartFragment
+com.xamarin.example.actionbar.tabs.CartFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.CartFragment
+com.xamarin.example.actionbar.tabs.CartFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.CartFragment
+com.xamarin.example.actionbar.tabs.AccountFragment, ActionBarTabs;md54b3e4c32e4849ac52a17482e2bb24eeb.AccountFragment
+com.xamarin.example.actionbar.tabs.AccountFragment, ActionBarTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b3e4c32e4849ac52a17482e2bb24eeb.AccountFragment
+com.xamarin.example.actionbar.tabs.AccountFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.AccountFragment
+com.xamarin.example.actionbar.tabs.AccountFragment;md54b3e4c32e4849ac52a17482e2bb24eeb.AccountFragment
+com.xamarin.example.actionbar.tabs.CusotmListAdapter, ActionBarTabs;md54b3e4c32e4849ac52a17482e2bb24eeb.CusotmListAdapter
+com.xamarin.example.actionbar.tabs.CusotmListAdapter, ActionBarTabs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b3e4c32e4849ac52a17482e2bb24eeb.CusotmListAdapter
+com.xamarin.example.actionbar.tabs.CusotmListAdapter;md54b3e4c32e4849ac52a17482e2bb24eeb.CusotmListAdapter
+com.xamarin.example.actionbar.tabs.CusotmListAdapter;md54b3e4c32e4849ac52a17482e2bb24eeb.CusotmListAdapter
