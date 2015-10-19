@@ -1,0 +1,9 @@
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\bin\Debug\UsingDependencyService.dll
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\bin\Debug\UsingDependencyService.pdb
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\obj\Debug\UsingDependencyService.dll
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\obj\Debug\UsingDependencyService.pdb
+c:\users\parmendrapc\documents\visual studio 2013\Projects\UsingDependencyService\UsingDependencyService\UsingDependencyService\obj\Debug\UsingDependencyService.csprojResolveAssemblyReference.cache
