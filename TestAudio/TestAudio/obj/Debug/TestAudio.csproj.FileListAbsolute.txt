@@ -1,0 +1,14 @@
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\bin\Debug\TestAudio.dll
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\bin\Debug\TestAudio.pdb
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\bin\Debug\TestAudio.TestAudio.apk
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\bin\Debug\TestAudio.TestAudio-Signed.apk
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\TestAudio.csprojResolveAssemblyReference.cache
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\TestAudio.dll
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\TestAudio.pdb
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\android\bin\TestAudio.TestAudio.apk
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\res\layout\main.xml
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\res\values\strings.xml
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\res\drawable\icon.png
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\res\raw\test.mp3
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\R.cs.flag
+C:\Users\parmendraPC\Documents\Visual Studio 2013\Projects\TestAudio\TestAudio\obj\Debug\uploadflags.txt

@@ -1,0 +1,4 @@
+TestAudio.MainActivity, TestAudio;md5431ba09b3f69be9ab7910446785abcc5.MainActivity
+TestAudio.MainActivity, TestAudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5431ba09b3f69be9ab7910446785abcc5.MainActivity
+TestAudio.MainActivity;md5431ba09b3f69be9ab7910446785abcc5.MainActivity
+testaudio.MainActivity;md5431ba09b3f69be9ab7910446785abcc5.MainActivity
